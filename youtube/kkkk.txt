@@ -1,0 +1,50 @@
+.left .left-one ul li>h3 {
+    position: relative;
+    bottom: 32px;
+    left: 62px;
+}
+
+.left ul li>h3,
+i {
+    font-size: 30px;
+}
+
+
+.left-one::after {
+    content: '';
+    height: 1px;
+    width: 317px;
+    background: black;
+    position: absolute;
+    bottom: 22px;
+    left: 0;
+    clear: both;
+}
+
+.left-two {
+    position: absolute;
+    padding: 5px 15px;
+}
+
+.left .left-two ul li>h3 {
+    position: relative;
+    bottom: 34px;
+    left: 62px;
+
+}
+
+.left-two::after {
+    content: '';
+    height: 1px;
+    width: 317px;
+    background: black;
+    position: absolute;
+    bottom: 22px;
+    left: 0;
+    clear: both;
+}
+
+.left-three {
+    position: absolute;
+    top: 270px;
+}

@@ -1,0 +1,43 @@
+ <div class="left-one">
+                <ul>
+                    <li>
+                        <i class="fas fa-home"></i>
+                        <h3>Trang Chủ</h3>
+                    </li>
+                    <li>
+                        <i class="fas fa-fire"></i>
+                        <h3>Thịnh Hành</h3>
+                    </li>
+                    <li>
+                        <i class="fab fa-youtube"></i>
+                        <h3>Kênh Đăng Ký</h3>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="left-two">
+                <ul>
+                    <li>
+                        <i class="fas fa-folder"></i>
+                        <h3>Thư Viện</h3>
+                    </li>
+                    <li>
+                        <i class="fas fa-history"></i>
+                        <h3>Lịch sử</h3>
+                    </li>
+                    <li>
+                        <i class="fas fa-clock"></i>
+                        <h3>Xem Sau</h3>
+                    </li>
+                    <li>
+                        <i class="fas fa-thumbs-up"></i>
+                        <h3>Đã Thích</h3>
+                    </li>
+                    <li>
+                        <i class="fas fa-angle-down"></i>
+                        <h3>Thêm</h3>
+                    </li>
+                </ul>
+            </div>
+            <div class="left-three">Kênh Đăng ký</div>
+        </div>
